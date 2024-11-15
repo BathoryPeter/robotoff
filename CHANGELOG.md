@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.56.3](https://github.com/openfoodfacts/robotoff/compare/v1.56.2...v1.56.3) (2024-11-15)
+
+
+### Bug Fixes
+
+* remove dataset push to HF ([#1465](https://github.com/openfoodfacts/robotoff/issues/1465)) ([40ecbb2](https://github.com/openfoodfacts/robotoff/commit/40ecbb28a39257c857fbb363d4bb577b8e329c6f))
+* use Robotoff attributed ports for ML services ([#1464](https://github.com/openfoodfacts/robotoff/issues/1464)) ([dd016d9](https://github.com/openfoodfacts/robotoff/commit/dd016d9d8ce8ed98854acfafb865b64bbe913717))
+
+
+### Technical
+
+* remove legacy settings for container deploy ([9117d68](https://github.com/openfoodfacts/robotoff/commit/9117d6820d41e752c50c47a35a86aeb7b36f6eb9))
+* use port numbers in Robotoff attributed range ([#1463](https://github.com/openfoodfacts/robotoff/issues/1463)) ([6a99eba](https://github.com/openfoodfacts/robotoff/commit/6a99ebadb0bac4767164a68c51cedc54fba132eb))
+
 ## [1.56.2](https://github.com/openfoodfacts/robotoff/compare/v1.56.1...v1.56.2) (2024-11-07)
 
 
